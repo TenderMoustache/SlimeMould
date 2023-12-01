@@ -4,7 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 1
+        "id": 1,
+        "marker-size": "medium",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -14,7 +16,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 2
+        "id": 2,
+        "marker-size": "medium",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -24,7 +28,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 3
+        "id": 3,
+        "marker-size": "medium",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -34,7 +40,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 4
+        "id": 4,
+        "marker-size": "medium",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -44,7 +52,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 5
+        "id": 5,
+        "marker-size": "medium",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -54,7 +64,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 6
+        "id": 6,
+        "marker-size": "medium",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -64,7 +76,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 7
+        "id": 7,
+        "marker-size": "medium",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -74,7 +88,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 8
+        "id": 8,
+        "marker-size": "medium",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -84,7 +100,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 9
+        "id": 9,
+        "marker-size": "medium",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
@@ -94,7 +112,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 10
+        "id": 10,
+        "marker-size": "medium",
+        "marker-symbol": "circle"
       },
       "geometry": {
         "type": "Point",
